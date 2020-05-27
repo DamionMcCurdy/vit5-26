@@ -1,3 +1,9 @@
  p {
    color: blue;
+   text-shadow: aqua;
+   font-family: fantasy;
+   line-height: 8px;
+   background-color: brown;
+   padding: 2em;
+   letter-spacing: 3px;
   }
